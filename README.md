@@ -61,6 +61,8 @@ A curated list of awesome machine learning and deep learning mathematics and adv
     - [Statistical Models](#mathematicalprobabilitystatistics-statisticalmodels)
     - [Expectation Maximization](#mathematicalprobabilitystatistics-expectationmaximization)
     - [Central Limit Theorem](#mathematicalprobabilitystatistics-centrallimittheorem)
+    - [Adequality](#mathematicalprobabilitystatistics-adequality)
+    - [Local Minima and Maxima](#mathematicalprobabilitystatistics-localminimamaxima)                    
     - [Regression](#mathematicalprobabilitystatistics-regression)
     - [Linear Regression](#mathematicalprobabilitystatistics-linearregression)
     - [Stochastic Process](#mathematicalprobabilitystatistics-stochasticprocess)

@@ -118,6 +118,7 @@ A curated list of awesome machine learning and deep learning mathematics and adv
     - [Empirical Measures](#mathematicaladvancedprobabilitystatistics-empiricalmeasures)
     - [McKean-Vlasov Processes](#mathematicaladvancedprobabilitystatistics-mcKeanvlasovprocesses)
     - [Nonlinear Filtering Equation](#mathematicaladvancedprobabilitystatistics-nonlinearfilteringequation)
+    - [Hessian Matrix](#mathematicaladvancedprobabilitystatistics-hessianmatrix)
 - [APPROXIMATION TECHNIQUE or OPTIMIZATION THEOREMS](#mathematicalapproximation)
     - [Taylor Series](#mathematicalapproximation-taylorseries)
     - [Gradient Descent](#mathematicalapproximation-gradientdescent)

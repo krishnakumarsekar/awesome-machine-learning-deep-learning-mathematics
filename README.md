@@ -132,6 +132,8 @@ A curated list of awesome machine learning and deep learning mathematics and adv
     - [Padé Approximation](#mathematicalapproximation-padeapproximation)
     - [Diophantine Approximation](#mathematicalapproximation-diophantineapproximation)
     - [Transcendental Number Theory](#mathematicalapproximation-transcendentalnumbertheory)
+    - [Simulated Annealing](#mathematicalapproximation-simulatedannealing)
+    - [Steepest Descent](#mathematicalapproximation-steepestdescent)
 - [TOPOLOGY](#mathematicaltopology)
     - [Set Theory](#mathematicaltopology-settheory)
     - [Axioms](#mathematicaltopology-axioms)
